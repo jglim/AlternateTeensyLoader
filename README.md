@@ -1,3 +1,5 @@
+![Alternate Teensy Loader - header](https://raw.githubusercontent.com/jglim/AlternateTeensyLoader/master/doc/atl_header.PNG)
+
 # Alternate Teensy Loader
 
 If you have a **Teensy 2.0** that shows up on reset with a *Vendor ID* of `16C0` & a *Product ID* of `0478`, that also refuses to be detected by the original Teensy Loader, Alternate Teensy Loader (ATL) may still be able to flash your firmware.
@@ -8,7 +10,7 @@ A buddy of mine assembled a mechanical keyboard kit, where the included Teensy 2
 
 ## Usage
 
-* Download and unzip both files (*AlternateTeensyLoader.exe* & *teensy_loader_cli.exe*) to a folder
+* [Download](https://raw.githubusercontent.com/jglim/AlternateTeensyLoader/master/binaries/AlternateTeensyLoader.zip) and unzip the folder (with *AlternateTeensyLoader.exe* & *teensy_loader_cli.exe* inside)
 * Run *AlternateTeensyLoader.exe*
 * Select your firmware file (.hex)
 * Plug in your Teensy 2.0
